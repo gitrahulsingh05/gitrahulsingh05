@@ -5,8 +5,7 @@ Email Me 👉 ✉️ **mailrahulsingh05@gmail.com** For Collaboration/Project or
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahul-singh-235267290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailrahulsingh05@gmail.com) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitrahulsingh05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
