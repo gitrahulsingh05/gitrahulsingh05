@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rahul Singh 
-A passionate Software Engineer 
+A passionate Software 
 
 Email Me 👉 ✉️ **mailrahulsingh05@gmail.com** For Collaboration/Project or Anything Else. 😊
 
