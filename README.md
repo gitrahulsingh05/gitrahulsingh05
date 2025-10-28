@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rahul Singh 
 A passionate Software Engineer
 
-Email Me 👉 ✉️ **mailrahulsingh05@gmail.com**
+Email Me 👉 ✉️ **mailrahulsingh05@gmail.com**For Collaboration/Project or Anything Else.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahul-singh-235267290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailrahulsingh05@gmail.com) 
